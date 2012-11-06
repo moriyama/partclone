@@ -1,3 +1,51 @@
+2012-11-06  Thomas Tsai  <thomas@nchc.org.tw>
+
+	remove exfat for clonezilla
+
+2012-11-06  Thomas Tsai  <tlinux.tsai@gmail.com>
+
+	Merge pull request #4 from okkez/malloc-check
+	Add malloc/calloc result check
+
+	Merge pull request #3 from okkez/fix-problems-reported-by-cppcheck
+	Fix problems reported by cppcheck
+
+2012-11-02  Kenji Okimoto  <okimoto@clear-code.com>
+
+	Add check calloc() result
+
+	Add check calloc() result
+
+	Exit if calloc() failed
+
+	Add check malloc() result
+
+	Add check malloc() result
+
+	Add check malloc() result
+
+	ensure NULL terminated string
+
+	do not free NULL
+
+	plug a memory leak
+
+	fix buffer overflow
+
+2012-10-22  Thomas Tsai  <thomas@nchc.org.tw>
+
+	add test script for offset
+
+	add offset function
+
+2012-10-11  Thomas Tsai  <thomas@nchc.org.tw>
+
+	update TODO
+
+	update configure
+
+	release 0.2.55
+
 2012-10-08  Thomas Tsai  <thomas@nchc.org.tw>
 
 	fix bug from sourceforge track system:     some files restored by partclone.vmfs3 is corrupted     incorrect information in the log accept patch files:     partclone-0.2.54-fix-printf-format-1.patch from Masayuki Moriyama     partclone-fix-wrong-bitmap-of-vmfsclone.patch from Masayuki Moriyama
