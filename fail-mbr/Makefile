@@ -28,4 +28,6 @@ install: fail-mbr.bin
 	$(INSTALL) fail-mbr.bin $(INSTLIBDIR)
 	
 
+check: compare
+
 .PHONY: all compare install
