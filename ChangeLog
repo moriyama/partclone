@@ -1,5 +1,9 @@
 2012-11-06  Thomas Tsai  <thomas@nchc.org.tw>
 
+	Merge branch 'release' of github.com:Thomas-Tsai/partclone into release
+
+	release 0.2.55
+
 	remove exfat for clonezilla
 
 2012-11-06  Thomas Tsai  <tlinux.tsai@gmail.com>
